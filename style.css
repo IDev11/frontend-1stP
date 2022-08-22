@@ -47,7 +47,10 @@ p {
     box-sizing: border-box;
 }
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px;
+    text-align: center; 
+    position: relative;
+    top: 217px;
 }
 
 .attribution a {
